@@ -1,3 +1,2 @@
-1. If ssh not installed, how do we install it from our TUI? because Linux distro maybe different or we just leave it to user and print to install it?
-2. if ip given for ssh is not in network, then it gets stuck into infinite loop. How do I solve that?
-3. What if ssh-key gets changed? I mean how do we detect that?
+1. if ip given for ssh is not in network, then it gets stuck into infinite loop. How do I solve that?
+2. What if ssh-key gets changed? I mean how do we detect that?
